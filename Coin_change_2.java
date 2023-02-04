@@ -13,6 +13,7 @@ public class Coin_change_2 {
         return ways;
     }
     public static void main(String[] args){
+        
         int []arr = {1,2,5};
         int target = 5;
         int []dp=new int[target+1];

@@ -1,0 +1,116 @@
+1. Longest Common Subsequence
+
+2. Longest Common Substring
+
+3. Shortest Common Substring
+
+4. Longest common Supersequence
+
+5. Longest repeating subsequence
+
+6. longest Palindromic subsequence
+
+7. longest increasing subsequence
+
+							LEETCODE PROBLEMS
+1. Target Sum
+
+2. Climbing stairs
+
+3. Minimum cost of tickets
+
+4. Coin change 2
+
+5. Word break      ✔
+
+6. Longest common substring
+
+7. Decode ways  ✔
+
+8. house robber  ✔
+
+9. House robber 2
+
+10. Interleaving strings
+
+11. Paint house
+
+12. Maximum product subarray
+
+13. Jump game 1
+
+14. Jump game 2
+
+15. Maximal square
+
+16. Perfect square
+
+17. Unique path
+
+18. Distinct subsequences
+
+19. Bus baloons
+
+20. No ways to rearrange sticks
+
+21. Maximum alternating subsequence
+
+22. counting bits
+
+23. Minimum days to eat n oranges
+
+__________________________________________________________________________________________________________________________________________
+
+24. Minimum cost climbing stairs
+
+25. Minimum no.of coins 2
+
+26. Maximum sum of non-adjacent elements
+
+27. House robbery
+
+28. Rod cutting
+
+29. Painting frames
+
+30. Largest square area in matrix
+
+31. Minimum triangulation of a polygon
+
+32. Minimum sideways jump
+
+33. Reducing dishes
+
+34. Russian doll(Longest Increasing subsequence)
+
+35. Maximum height by stacking cuboid
+
+36. Pizza with 3n slices
+
+37. No.of dice rolls with target sum
+
+38. Partition equal subset sum
+
+39. Minimum swaps to make increasing subsequences
+
+40. Longest arithmetic subsequences
+
+41. Longest Ap with given difference d
+
+42. Unique binary search tree 
+
+43. Guess number lower or higher
+
+44. Minimum cost tree from leaf value
+
+45. Buy and sell stocks   ✔
+
+46. Longest common Supersequence ✔
+
+47. longest Palindromic subsequence  ✔
+
+48. Edit distance
+
+49. Maximu rectangle with all ones
+
+50. wild cart pattern matching.
